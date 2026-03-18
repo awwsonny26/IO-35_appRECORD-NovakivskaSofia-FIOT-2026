@@ -4,10 +4,10 @@
     "subjectLine": "з дисципліни «WEB-ОРІЄНТОВАНІ ТЕХНОЛОГІЇ. BACKEND РОЗРОБКИ»"
   },
   "student": {
-    "fullName": "Прізвище Ім’я По батькові",
-    "group": "Іx-xx",
-    "gender": "male",
-    "photo": "/students/chad.jpg"
+    "fullName": "Новаківська Софія Василівна",
+    "group": "ІO-35",
+    "gender": "female",
+    "photo": "/students/DSC05517.jpg"
   },
   "toc": {
     "minDepth": 2,
@@ -15,9 +15,14 @@
   },
   "labs": [
     {
-      "slug": "lab-1",
-      "title": "Лабораторна робота №1",
-      "button": "Лабораторна робота №1"
+      "slug": "lab-1-1",
+      "title": "Лабораторна робота №1. Частина 1",
+      "button": "Лабораторна робота №1.1"
+    },
+    {
+      "slug": "lab-1-2",
+      "title": "Лабораторна робота №1. Частина 2",
+      "button": "Лабораторна робота №1.2"
     }
   ]
 }
